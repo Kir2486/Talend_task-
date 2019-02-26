@@ -1,0 +1,500 @@
+"ACCOUNT_KEY","TYPE","LOCATION","PAYMENT"
+9000081104,"Customer","Italy -> South East Europe -> South",345
+9000004532,"Customer","Italy -> South East Europe -> South",345
+9000136434,"Customer","France -> France International -> West",345
+9000067440,"Customer","Italy -> South East Europe -> South",345
+9000150975,"Customer","Netherlands -> Netherlands -> North",161
+9000036871,"Customer","Germany -> Central Europe -> East",161
+9000148377,"Customer","Italy -> South East Europe -> South",57.5
+9000169497,"Customer","France -> France International -> West",345
+9000142599,"Customer","Germany -> Central Europe -> East",57.5
+9000017991,"Customer","Poland -> Eastern Europe -> East",241.5
+9000149165,"Customer","France -> France International -> West",517.5
+9000059328,"Customer","Belgium -> BeLux -> North",57.5
+9000159008,"Customer","France -> France International -> West",345
+9000150675,"Customer","Romania -> Eastern Europe -> East",241.5
+9000077423,"Customer","France -> France International -> West",57.5
+9000097159,"Customer","Netherlands -> Netherlands -> North",322
+9000196630,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000198143,"Customer","France -> France International -> West",517.5
+9000048231,"Customer","Netherlands -> Netherlands -> North",322
+9000134547,"Customer","Germany -> Central Europe -> East",161
+9000081864,"Customer","Germany -> Central Europe -> East",57.5
+9000029497,"Customer","Poland -> Eastern Europe -> East",57.5
+9000112196,"Customer","Germany -> Central Europe -> East",57.5
+9000042271,"Customer","Romania -> Eastern Europe -> East",241.5
+9000136417,"Customer","Germany -> Central Europe -> East",161
+9000077761,"Customer","Poland -> Eastern Europe -> East",57.5
+9000082669,"Customer","Lithuania -> Eastern Europe -> East",241.5
+9000211400,"Customer","Belgium -> BeLux -> North",57.5
+9000036993,"Customer","Germany -> Central Europe -> East",161
+9000044360,"Customer","Netherlands -> Netherlands -> North",57.5
+9000098141,"Customer","Romania -> Eastern Europe -> East",241.5
+9000045066,"Customer","Romania -> Eastern Europe -> East",57.5
+9000190800,"Customer","Austria -> Central Europe -> East",161
+9000116169,"Customer","Netherlands -> Netherlands -> North",322
+9000074065,"Customer","United Kingdom -> Great Britain -> North",345
+9000003609,"Customer","Austria -> Central Europe -> East",161
+9000009815,"Customer","Bulgaria -> Eastern Europe -> East",57.5
+9000132628,"Customer","Germany -> Central Europe -> East",161
+9000055888,"Customer","Czech Republic -> Eastern Europe -> East",241.5
+9000078267,"Customer","Netherlands -> Netherlands -> North",57.5
+9000171636,"Customer","Italy -> South East Europe -> South",345
+9000085172,"Customer","Italy -> South East Europe -> South",345
+9000077212,"Customer","Poland -> Eastern Europe -> East",57.5
+9000120382,"Customer","Hungary -> Eastern Europe -> East",241.5
+9000201470,"Customer","Germany -> Central Europe -> East",57.5
+9000182954,"Customer","Ireland -> Great Britain -> North",345
+9000008813,"Customer","Hungary -> Eastern Europe -> East",241.5
+9000138271,"Customer","France -> France International -> West",517.5
+9000080165,"Customer","Romania -> Eastern Europe -> East",57.5
+9000110274,"Customer","Germany -> Central Europe -> East",161
+9000216642,"Customer","Netherlands -> Netherlands -> North",322
+9000051457,"Customer","France -> France International -> West",345
+9000146565,"Customer","Netherlands -> Netherlands -> North",57.5
+9000201799,"Customer","Slovakia -> Eastern Europe -> East",241.5
+9000132230,"Customer","France -> France International -> West",345
+9000024363,"Customer","Germany -> Central Europe -> East",161
+9000058501,"Customer","United Kingdom -> Great Britain -> North",57.5
+9000134056,"Customer","France -> France International -> West",517.5
+9000011451,"Customer","France -> France International -> West",517.5
+9000203495,"Customer","Germany -> Central Europe -> East",161
+9000019909,"Customer","",345
+9000029381,"Customer","United Kingdom -> Great Britain -> North",57.5
+9000217326,"Customer","Poland -> Eastern Europe -> East",241.5
+9000041330,"Customer","Germany -> Central Europe -> East",161
+9000194483,"Customer","Hungary -> Eastern Europe -> East",57.5
+9000167229,"Customer","Denmark -> Nordics -> North",161
+9000214371,"Customer","France -> France International -> West",517.5
+9000161503,"Customer","Spain -> Teleroute Iberica -> South",345
+9000196095,"Customer","Germany -> Central Europe -> East",161
+9000094445,"Customer","France -> France International -> West",345
+9000154428,"Customer","Germany -> Central Europe -> East",57.5
+9000073560,"Customer","France -> France International -> West",345
+9000105204,"Customer","Italy -> South East Europe -> South",172.5
+9000002357,"Customer","France -> France International -> West",517.5
+9000131194,"Customer","Germany -> Central Europe -> East",57.5
+9000197173,"Customer","Netherlands -> Netherlands -> North",161
+9000135189,"Customer","France -> France International -> West",345
+9000173113,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000042636,"Customer","Germany -> Central Europe -> East",161
+9000037156,"Customer","France -> France International -> West",517.5
+9000148395,"Customer","Netherlands -> Netherlands -> North",57.5
+9000096328,"Customer","Germany -> Central Europe -> East",161
+9000027976,"Customer","Poland -> Eastern Europe -> East",241.5
+9000027154,"Customer","Germany -> Central Europe -> East",161
+9000156219,"Customer","Netherlands -> Netherlands -> North",161
+9000172511,"Customer","Germany -> Central Europe -> East",161
+9000030498,"Customer","Netherlands -> Netherlands -> North",161
+9000083532,"Customer","Netherlands -> Netherlands -> North",57.5
+9000134232,"Customer","Germany -> Central Europe -> East",57.5
+9000175599,"Customer","Netherlands -> Netherlands -> North",57.5
+9000029315,"Customer","France -> France International -> West",345
+9000157894,"Customer","Belgium -> BeLux -> North",57.5
+9000157031,"Customer","Turkey -> Eastern Europe -> East",57.5
+9000160614,"Customer","Austria -> Central Europe -> East",161
+9000098672,"Customer","Germany -> Central Europe -> East",161
+9000139555,"Customer","Hungary -> Eastern Europe -> East",241.5
+9000173320,"Customer","Romania -> Eastern Europe -> East",57.5
+9000085213,"Customer","Portugal -> Teleroute Iberica -> South",57.5
+9000207019,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000108212,"Customer","Bulgaria -> Eastern Europe -> East",57.5
+9000027912,"Customer","Germany -> Central Europe -> East",161
+9000136592,"Customer","Germany -> Central Europe -> East",57.5
+9000168747,"Customer","Poland -> Eastern Europe -> East",241.5
+9000168058,"Customer","France -> France International -> West",57.5
+9000182798,"Customer","Hungary -> Eastern Europe -> East",241.5
+9000133686,"Customer","Belgium -> BeLux -> North",57.5
+9000069817,"Customer","Netherlands -> Netherlands -> North",57.5
+9000169070,"Customer","Switzerland DE -> Central Europe -> East",57.5
+9000018333,"Customer","Germany -> Central Europe -> East",161
+9000208402,"Customer","Romania -> Eastern Europe -> East",57.5
+9000130105,"Customer","Portugal -> Teleroute Iberica -> South",172.5
+9000161710,"Customer","Germany -> Central Europe -> East",161
+9000002043,"Customer","Romania -> Eastern Europe -> East",241.5
+9000005752,"Customer","Switzerland DE -> Central Europe -> East",161
+9000076608,"Customer","Germany -> Central Europe -> East",161
+9000150994,"Customer","Germany -> Central Europe -> East",161
+9000011995,"Customer","Germany -> Central Europe -> East",161
+9000099054,"Customer","France -> France International -> West",345
+9000074017,"Customer","Lithuania -> Eastern Europe -> East",57.5
+9000197550,"Customer","Italy -> South East Europe -> South",57.5
+9000162313,"Customer","Italy -> South East Europe -> South",345
+9000024294,"Customer","Moldavia -> Eastern Europe -> East",57.5
+9000055084,"Customer","Netherlands -> Netherlands -> North",322
+9000020831,"Customer","France -> France International -> West",345
+9000079313,"Customer","Italy -> South East Europe -> South",345
+9000043062,"Customer","Czech Republic -> Eastern Europe -> East",241.5
+9000013676,"Customer","Luxembourg -> BeLux -> North",115
+9000209802,"Customer","Germany -> Central Europe -> East",161
+9000106148,"Customer","Germany -> Central Europe -> East",57.5
+9000089019,"Customer","Germany -> Central Europe -> East",161
+9000032733,"Customer","Poland -> Eastern Europe -> East",57.5
+9000020435,"Customer","France -> France International -> West",345
+9000073385,"Customer","Poland -> Eastern Europe -> East",241.5
+9000132049,"Customer","United Kingdom -> Great Britain -> North",57.5
+9000114515,"Customer","Poland -> Eastern Europe -> East",241.5
+9000096299,"Customer","Austria -> Central Europe -> East",57.5
+9000035414,"Customer","Hungary -> Eastern Europe -> East",241.5
+9000140721,"Customer","France -> France International -> West",57.5
+9000022792,"Customer","Belgium -> BeLux -> North",345
+9000085720,"Customer","Germany -> Central Europe -> East",161
+9000095108,"Customer","France -> France International -> West",345
+9000062548,"Customer","Germany -> Central Europe -> East",161
+9000005968,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000104535,"Customer","France -> France International -> West",517.5
+9000141256,"Customer","Romania -> Eastern Europe -> East",241.5
+9000163412,"Customer","France -> France International -> West",57.5
+9000091594,"Customer","Germany -> Central Europe -> East",161
+9000149202,"Customer","France -> France International -> West",517.5
+9000136905,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000059113,"Customer","Netherlands -> Netherlands -> North",322
+9000192203,"Customer","France -> France International -> West",517.5
+9000136710,"Customer","Poland -> Eastern Europe -> East",241.5
+9000117241,"Customer","Italy -> South East Europe -> South",345
+9000031186,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000134594,"Customer","Italy -> South East Europe -> South",345
+9000086817,"Customer","Macedonia -> Eastern Europe -> East",57.5
+9000217562,"Customer","Romania -> Eastern Europe -> East",57.5
+9000175724,"Customer","Hungary -> Eastern Europe -> East",241.5
+9000082674,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000165054,"Customer","Italy -> South East Europe -> South",345
+9000098909,"Customer","Germany -> Central Europe -> East",161
+9000210053,"Customer","Italy -> South East Europe -> South",57.5
+9000018715,"Customer","Macedonia -> Eastern Europe -> East",57.5
+9000127541,"Customer","Portugal -> Teleroute Iberica -> South",172.5
+9000043811,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000112740,"Customer","Macedonia -> Eastern Europe -> East",57.5
+9000100933,"Customer","Belgium -> BeLux -> North",115
+9000210863,"Customer","Romania -> Eastern Europe -> East",241.5
+9000007392,"Customer","France -> France International -> West",517.5
+9000073015,"Customer","Portugal -> Teleroute Iberica -> South",57.5
+9000114024,"Customer","Italy -> South East Europe -> South",57.5
+9000209680,"Customer","France -> France International -> West",517.5
+9000205438,"Customer","France -> France International -> West",517.5
+9000125197,"Customer","France -> France International -> West",517.5
+9000140574,"Customer","Austria -> Central Europe -> East",161
+9000042046,"Customer","Greece -> South East Europe -> South",57.5
+9000120587,"Customer","Netherlands -> Netherlands -> North",57.5
+9000136192,"Customer","Ireland -> Great Britain -> North",57.5
+9000110025,"Customer","France -> France International -> West",57.5
+9000090640,"Customer","Portugal -> Teleroute Iberica -> South",172.5
+9000008466,"Customer","France -> France International -> West",345
+9000216862,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000018218,"Customer","United Kingdom -> Great Britain -> North",57.5
+9000199267,"Customer","Belgium -> BeLux -> North",115
+9000038093,"Customer","Italy -> South East Europe -> South",57.5
+9000181564,"Customer","Italy -> South East Europe -> South",161
+9000046694,"Customer","Poland -> Eastern Europe -> East",241.5
+9000090237,"Customer","France -> France International -> West",345
+9000034682,"Customer","Poland -> Eastern Europe -> East",57.5
+9000009060,"Customer","Croatia -> Eastern Europe -> East",241.5
+9000056556,"TLR internal","United Kingdom -> Great Britain -> North",57.5
+9000194884,"Customer","Germany -> Central Europe -> East",161
+9000003669,"Customer","France -> France International -> West",345
+9000131403,"Customer","Poland -> Eastern Europe -> East",241.5
+9000176803,"Customer","",57.5
+9000103769,"Customer","France -> France International -> West",345
+9000026518,"Customer","Netherlands -> Netherlands -> North",322
+9000078289,"Customer","Poland -> Eastern Europe -> East",57.5
+9000182977,"Customer","Germany -> Central Europe -> East",161
+9000170036,"Customer","Austria -> Central Europe -> East",161
+9000085326,"Customer","Belgium -> BeLux -> North",115
+9000210142,"Customer","France -> France International -> West",517.5
+9000169527,"Customer","Germany -> Central Europe -> East",161
+9000111163,"Customer","United Kingdom -> Great Britain -> North",57.5
+9000076922,"Customer","France -> France International -> West",517.5
+9000068639,"Customer","Romania -> Eastern Europe -> East",57.5
+9000110830,"Customer","Austria -> Central Europe -> East",161
+9000099245,"Customer","France -> France International -> West",345
+9000167206,"Customer","United Kingdom -> Great Britain -> North",57.5
+9000164116,"Customer","Italy -> South East Europe -> South",57.5
+9000004434,"Customer","United Kingdom -> Great Britain -> North",345
+9000045592,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000188749,"Customer","Germany -> Central Europe -> East",57.5
+9000039421,"Customer","Poland -> Eastern Europe -> East",241.5
+9000142756,"Customer","Germany -> Central Europe -> East",161
+9000141189,"Customer","Portugal -> Teleroute Iberica -> South",172.5
+9000078867,"Customer","France -> France International -> West",57.5
+9000134619,"Customer","Germany -> Central Europe -> East",161
+9000042459,"Customer","Germany -> Central Europe -> East",57.5
+9000075408,"Customer","France -> France International -> West",57.5
+9000183453,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000203127,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000109902,"Customer","Germany -> Central Europe -> East",161
+9000001715,"Customer","Latvia -> Eastern Europe -> East",241.5
+9000101054,"Customer","Netherlands -> Netherlands -> North",57.5
+9000036085,"Customer","United Kingdom -> Great Britain -> North",345
+9000181679,"Customer","France -> France International -> West",517.5
+9000133405,"Customer","Belgium -> BeLux -> North",115
+9000213129,"Customer","Netherlands -> Netherlands -> North",57.5
+9000113676,"Customer","United Kingdom -> Great Britain -> North",57.5
+9000067508,"Customer","Germany -> Central Europe -> East",161
+9000003338,"Customer","Germany -> Central Europe -> East",161
+9000169087,"Customer","France -> France International -> West",345
+9000156100,"Customer","Sweden -> Nordics -> North",161
+9000156554,"Customer","Germany -> Central Europe -> East",57.5
+9000057652,"Customer","France -> France International -> West",345
+9000179431,"Customer","Belgium -> BeLux -> North",115
+9000149200,"Customer","Belgium -> BeLux -> North",115
+9000013450,"Customer","Romania -> Eastern Europe -> East",241.5
+9000144073,"Customer","Belgium -> BeLux -> North",57.5
+9000124454,"Customer","Romania -> Eastern Europe -> East",57.5
+9000057052,"Customer","France -> France International -> West",345
+9000156968,"Customer","France -> France International -> West",57.5
+9000111186,"Customer","France -> France International -> West",517.5
+9000161899,"Customer","Belgium -> BeLux -> North",57.5
+9000191997,"Customer","Germany -> Central Europe -> East",161
+9000078471,"Customer","Netherlands -> Netherlands -> North",322
+9000010688,"Customer","France -> France International -> West",345
+9000035019,"Customer","France -> France International -> West",345
+9000054380,"Customer","Netherlands -> Netherlands -> North",161
+9000090466,"Customer","",57.5
+9000110239,"Customer","Germany -> Central Europe -> East",161
+9000124322,"Customer","Belgium -> BeLux -> North",57.5
+9000167020,"Customer","Belgium -> BeLux -> North",115
+9000164380,"Customer","France -> France International -> West",517.5
+9000170788,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000114132,"Customer","Germany -> Central Europe -> East",57.5
+9000208193,"Customer","Germany -> Central Europe -> East",161
+9000197411,"Customer","Italy -> South East Europe -> South",57.5
+9000118888,"Customer","Portugal -> Teleroute Iberica -> South",172.5
+9000030185,"Customer","Lithuania -> Eastern Europe -> East",57.5
+9000085107,"Customer","",57.5
+9000051675,"Customer","Netherlands -> Netherlands -> North",57.5
+9000152970,"Customer","Bulgaria -> Eastern Europe -> East",57.5
+9000138346,"Customer","Romania -> Eastern Europe -> East",241.5
+9000001710,"Customer","Germany -> Central Europe -> East",161
+9000014636,"Customer","Poland -> Eastern Europe -> East",241.5
+9000202257,"Customer","Netherlands -> Netherlands -> North",161
+9000216706,"Customer","Poland -> Eastern Europe -> East",57.5
+9000182045,"Customer","Poland -> Eastern Europe -> East",57.5
+9000137758,"Customer","Germany -> Central Europe -> East",161
+9000214523,"Customer","France -> France International -> West",517.5
+9000086075,"Customer","France -> France International -> West",517.5
+9000155336,"Customer","Poland -> Eastern Europe -> East",241.5
+9000205908,"Customer","France -> France International -> West",345
+9000106699,"Customer","Netherlands -> Netherlands -> North",322
+9000020028,"Customer","France -> France International -> West",345
+9000089761,"Customer","Switzerland DE -> Central Europe -> East",161
+9000168386,"Customer","Romania -> Eastern Europe -> East",241.5
+9000065513,"Customer","France -> France International -> West",517.5
+9000153563,"Customer","Italy -> South East Europe -> South",345
+9000110557,"Customer","Germany -> Central Europe -> East",161
+9000203950,"Customer","Germany -> Central Europe -> East",161
+9000052673,"Customer","Netherlands -> Netherlands -> North",57.5
+9000135844,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000009322,"Customer","Netherlands -> Netherlands -> North",57.5
+9000032297,"Customer","Italy -> South East Europe -> South",57.5
+9000135583,"Customer","Belgium -> BeLux -> North",57.5
+9000106349,"Customer","Romania -> Eastern Europe -> East",241.5
+9000091084,"Customer","Netherlands -> Netherlands -> North",322
+9000149259,"Customer","France -> France International -> West",517.5
+9000197464,"Customer","Italy -> South East Europe -> South",345
+9000156760,"Customer","Poland -> Eastern Europe -> East",57.5
+9000033958,"Customer","United Kingdom -> Great Britain -> North",345
+9000143355,"Customer","Germany -> Central Europe -> East",161
+9000177863,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000008956,"Customer","Germany -> Central Europe -> East",161
+9000203325,"Customer","France -> France International -> West",345
+9000137113,"Customer","France -> France International -> West",345
+9000142532,"Customer","France -> France International -> West",517.5
+9000114616,"Customer","France -> France International -> West",517.5
+9000155253,"Customer","Poland -> Eastern Europe -> East",241.5
+9000022994,"Customer","Italy -> South East Europe -> South",345
+9000198164,"Customer","France -> France International -> West",57.5
+9000181578,"Customer","Netherlands -> Netherlands -> North",57.5
+9000185324,"Customer","Netherlands -> Netherlands -> North",322
+9000095431,"Customer","Poland -> Eastern Europe -> East",57.5
+9000057195,"Customer","Poland -> Eastern Europe -> East",57.5
+9000144341,"Customer","Poland -> Eastern Europe -> East",57.5
+9000213952,"Customer","Germany -> Central Europe -> East",161
+9000094808,"Customer","Belgium -> BeLux -> North",57.5
+9000194165,"Customer","Germany -> Central Europe -> East",57.5
+9000117266,"Customer","Poland -> Eastern Europe -> East",57.5
+9000058052,"Customer","Germany -> Central Europe -> East",161
+9000067224,"Customer","Germany -> Central Europe -> East",161
+9000026424,"Customer","Germany -> Central Europe -> East",161
+9000018738,"Customer","Netherlands -> Netherlands -> North",57.5
+9000040677,"Customer","Netherlands -> Netherlands -> North",57.5
+9000075448,"Customer","Belgium -> BeLux -> North",115
+9000159727,"Customer","Poland -> Eastern Europe -> East",57.5
+9000009882,"Customer","Belgium -> BeLux -> North",345
+9000182994,"Customer","France -> France International -> West",345
+9000215574,"Customer","Germany -> Central Europe -> East",57.5
+9000188049,"Customer","Belgium -> BeLux -> North",57.5
+9000003033,"Customer","",345
+9000137318,"Customer","Germany -> Central Europe -> East",161
+9000086886,"Customer","France -> France International -> West",57.5
+9000072483,"Customer","Netherlands -> Netherlands -> North",322
+9000120221,"Customer","Czech Republic -> Eastern Europe -> East",241.5
+9000033153,"Customer","Netherlands -> Netherlands -> North",57.5
+9000209605,"Customer","France -> France International -> West",345
+9000213316,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000070172,"Customer","Germany -> Central Europe -> East",161
+9000190666,"Customer","Germany -> Central Europe -> East",161
+9000097694,"Customer","France -> France International -> West",345
+9000060614,"Customer","Poland -> Eastern Europe -> East",241.5
+9000169807,"Customer","Germany -> Central Europe -> East",161
+9000164168,"Customer","Germany -> Central Europe -> East",161
+9000029859,"Customer","Germany -> Central Europe -> East",345
+9000144839,"Customer","France -> France International -> West",57.5
+9000198619,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000087437,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000123198,"Customer","Netherlands -> Netherlands -> North",161
+9000176462,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000152416,"Customer","Germany -> Central Europe -> East",57.5
+9000044312,"Customer","Germany -> Central Europe -> East",161
+9000003280,"Customer","France -> France International -> West",345
+9000005148,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000067872,"Customer","Poland -> Eastern Europe -> East",241.5
+9000084220,"Customer","Portugal -> Teleroute Iberica -> South",57.5
+9000066924,"Customer","",57.5
+9000158948,"Customer","Italy -> South East Europe -> South",345
+9000002411,"Customer","Italy -> South East Europe -> South",57.5
+9000067742,"Customer","Switzerland DE -> Central Europe -> East",57.5
+9000107810,"Customer","",57.5
+9000001779,"Customer","Austria -> Central Europe -> East",57.5
+9000088026,"Customer","France -> France International -> West",517.5
+9000145153,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000031015,"Customer","Finland -> Nordics -> North",57.5
+9000102991,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000156367,"Customer","Poland -> Eastern Europe -> East",57.5
+9000130143,"Customer","Bulgaria -> Eastern Europe -> East",57.5
+9000105363,"Customer","Germany -> Central Europe -> East",161
+9000212929,"Customer","Germany -> Central Europe -> East",161
+9000208496,"Customer","Netherlands -> Netherlands -> North",322
+9000007290,"Customer","France -> France International -> West",517.5
+9000024191,"Customer","France -> France International -> West",517.5
+9000117219,"Customer","Germany -> Central Europe -> East",161
+9000079518,"Customer","Portugal -> Teleroute Iberica -> South",172.5
+9000038991,"Customer","France -> France International -> West",57.5
+9000032881,"Customer","Poland -> Eastern Europe -> East",57.5
+9000085659,"Customer","Belgium -> BeLux -> North",57.5
+9000000623,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000143691,"Customer","Germany -> Central Europe -> East",161
+9000181942,"Customer","France -> France International -> West",517.5
+9000069597,"Customer","Germany -> Central Europe -> East",161
+9000155655,"Customer","Netherlands -> Netherlands -> North",322
+9000095609,"Customer","Italy -> South East Europe -> South",57.5
+9000103597,"Customer","Germany -> Central Europe -> East",161
+9000159717,"Customer","Bulgaria -> Eastern Europe -> East",57.5
+9000114793,"Customer","Germany -> Central Europe -> East",57.5
+9000127427,"Customer","Germany -> Central Europe -> East",161
+9000199587,"Customer","Poland -> Eastern Europe -> East",57.5
+9000127629,"Customer","Belgium -> BeLux -> North",115
+9000164760,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000115112,"Customer","Germany -> Central Europe -> East",57.5
+9000160216,"Customer","Italy -> South East Europe -> South",345
+9000182648,"Customer","Poland -> Eastern Europe -> East",241.5
+9000104412,"Customer","France -> France International -> West",517.5
+9000122374,"Customer","Ireland -> Great Britain -> North",345
+9000007922,"Customer","Netherlands -> Netherlands -> North",57.5
+9000138589,"Customer","Germany -> Central Europe -> East",57.5
+9000012028,"Customer","Germany -> Central Europe -> East",161
+9000173584,"Customer","Germany -> Central Europe -> East",161
+9000178783,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000003449,"Customer","Italy -> South East Europe -> South",172.5
+9000034872,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000078307,"Customer","Netherlands -> Netherlands -> North",57.5
+9000112572,"Customer","France -> France International -> West",57.5
+9000014864,"Customer","Czech Republic -> Eastern Europe -> East",241.5
+9000145215,"Customer","France -> France International -> West",57.5
+9000097495,"Customer","Germany -> Central Europe -> East",161
+9000212350,"Customer","Netherlands -> Netherlands -> North",322
+9000096196,"Customer","France -> France International -> West",517.5
+9000126367,"Customer","United Kingdom -> Great Britain -> North",57.5
+9000048152,"Customer","Switzerland DE -> Central Europe -> East",57.5
+9000198739,"Customer","France -> France International -> West",57.5
+9000149999,"Customer","Romania -> Eastern Europe -> East",57.5
+9000213362,"Customer","Austria -> Central Europe -> East",161
+9000077134,"Customer","Portugal -> Teleroute Iberica -> South",172.5
+9000105339,"Customer","Germany -> Central Europe -> East",161
+9000098490,"Customer","Netherlands -> Netherlands -> North",57.5
+9000123535,"Customer","France -> France International -> West",345
+9000156069,"Customer","Belgium -> BeLux -> North",115
+9000176986,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000013596,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000019913,"Customer","France -> France International -> West",0
+9000169019,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000000597,"Customer","Italy -> South East Europe -> South",345
+9000071182,"Customer","France -> France International -> West",517.5
+9000021128,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000087978,"Customer","Italy -> South East Europe -> South",345
+9000031147,"Customer","Bulgaria -> Eastern Europe -> East",57.5
+9000197595,"Customer","Austria -> Central Europe -> East",161
+9000120410,"Customer","Germany -> Central Europe -> East",161
+9000048414,"Customer","Netherlands -> Netherlands -> North",57.5
+9000095096,"Customer","Poland -> Eastern Europe -> East",57.5
+9000134397,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000106850,"Customer","France -> France International -> West",345
+9000130939,"Customer","France -> France International -> West",345
+9000125840,"Customer","Germany -> Central Europe -> East",161
+9000099670,"Customer","Germany -> Central Europe -> East",161
+9000062285,"Customer","France -> France International -> West",345
+9000210979,"Customer","France -> France International -> West",345
+9000113201,"Customer","Germany -> Central Europe -> East",57.5
+9000119537,"Customer","Germany -> Central Europe -> East",161
+9000186773,"Customer","Serbia-Montenegro -> Eastern Europe -> East",57.5
+9000032167,"Customer","Germany -> Central Europe -> East",161
+9000107582,"Customer","Germany -> Central Europe -> East",161
+9000096570,"Customer","Slovakia -> Eastern Europe -> East",241.5
+9000196486,"Customer","Germany -> Central Europe -> East",161
+9000161370,"Customer","France -> France International -> West",57.5
+9000174037,"Customer","Austria -> Central Europe -> East",57.5
+9000023951,"Customer","Germany -> Central Europe -> East",57.5
+9000178493,"Customer","France -> France International -> West",345
+9000195715,"Customer","France -> France International -> West",345
+9000016028,"Customer","Germany -> Central Europe -> East",161
+9000188728,"Customer","France -> France International -> West",345
+9000194232,"Customer","France -> France International -> West",517.5
+9000204349,"Customer","France -> France International -> West",345
+9000204526,"Customer","France -> France International -> West",517.5
+9000169767,"Customer","France -> France International -> West",345
+9000152327,"Customer","France -> France International -> West",517.5
+9000149138,"Customer","France -> France International -> West",517.5
+9000062658,"Customer","France -> France International -> West",345
+9000040865,"Customer","France -> France International -> West",517.5
+9000015385,"Customer","France -> France International -> West",517.5
+9000151383,"Customer","Poland -> Eastern Europe -> East",241.5
+9000216008,"Customer","Germany -> Central Europe -> East",161
+9000201675,"Customer","France -> France International -> West",345
+9000130842,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000199639,"Customer","France -> France International -> West",345
+9000010015,"Customer","Poland -> Eastern Europe -> East",57.5
+9000144862,"Customer","Switzerland DE -> Central Europe -> East",161
+9000120233,"Customer","Switzerland DE -> Central Europe -> East",57.5
+9000065120,"Customer","Poland -> Eastern Europe -> East",241.5
+9000205891,"Customer","Poland -> Eastern Europe -> East",241.5
+9000053214,"Customer","Belgium -> BeLux -> North",57.5
+9000015815,"Customer","Belgium -> BeLux -> North",57.5
+9000033701,"Customer","Poland -> Eastern Europe -> East",57.5
+9000171356,"Customer","France -> France International -> West",517.5
+9000182615,"Customer","Germany -> Central Europe -> East",161
+9000100392,"Customer","Netherlands -> Netherlands -> North",322
+9000090515,"Customer","Germany -> Central Europe -> East",57.5
+9000035982,"Customer","Romania -> Eastern Europe -> East",57.5
+9000111125,"Customer","Italy -> South East Europe -> South",57.5
+9000084116,"Customer","Switzerland DE -> Central Europe -> East",57.5
+9000141735,"Customer","Bulgaria -> Eastern Europe -> East",57.5
+9000102095,"Customer","Spain -> Teleroute Iberica -> South",57.5
+9000083583,"Customer","France -> France International -> West",345
+9000045861,"Customer","United Kingdom -> Great Britain -> North",345
+9000205615,"Customer","Germany -> Central Europe -> East",161
+9000028084,"Customer","Austria -> Central Europe -> East",57.5
+9000165316,"Customer","Italy -> South East Europe -> South",172.5
+9000180003,"Customer","Germany -> Central Europe -> East",161
+9000091709,"Customer","Romania -> Eastern Europe -> East",57.5
+9000110811,"Customer","France -> France International -> West",345
+9000085325,"TLR internal","Germany -> Central Europe -> East",57.5
+9000178092,"Customer","Belgium -> BeLux -> North",57.5
+9000202903,"Customer","Poland -> Eastern Europe -> East",241.5
+9000075808,"Customer","Spain -> Teleroute Iberica -> South",172.5
+9000005483,"Customer","Poland -> Eastern Europe -> East",57.5
+9000078174,"Customer","Austria -> Central Europe -> East",161
+9000031530,"Customer","France -> France International -> West",345
+9000136012,"Customer","Bulgaria -> Eastern Europe -> East",57.5
+9000172682,"Customer","Germany -> Central Europe -> East",161
+9000197780,"Customer","France -> France International -> West",517.5
+9000171797,"Customer","Belgium -> BeLux -> North",57.5
+9000195308,"Customer","Germany -> Central Europe -> East",161
